@@ -3,7 +3,7 @@ https://wokwi.com/projects/334977496186356308  Servomotor<br>
 https://wokwi.com/projects/333825443765420627 LiquidCrystal<br>
  https://wokwi.com/projects/333716279904961106 3 LED traffic signal<br>
  https://wokwi.com/projects/334975793262232148  trafic signal<br>
- https://wokwi.com/projects/334977496186356308<br>
+ https://wokwi.com/projects/334977496186356308 servomotor for statement<br>
  https://wokwi.com/projects/334977496186356308<br>
 https://wokwi.com/projects/333804541306733140 <br>
 https://wokwi.com/projects/334981720686199378 <br>
