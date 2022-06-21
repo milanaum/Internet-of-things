@@ -8,7 +8,7 @@ https://wokwi.com/projects/333825443765420627 LiquidCrystal<br>
 https://wokwi.com/projects/333804541306733140  RGB<br>
 https://wokwi.com/projects/334981720686199378 Potentiometer<br>
 https://wokwi.com/projects/335065147784561235 buffer<br>
-https://wokwi.com/projects/335066798676247122 <br>
+https://wokwi.com/projects/335066798676247122 pushbottob<br>
 https://wokwi.com/projects/335068638604165715 <br>
 https://wokwi.com/projects/335071626494214739<br>
 https://wokwi.com/projects/335068638604165715<br>
