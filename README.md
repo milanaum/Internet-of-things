@@ -1,7 +1,7 @@
 # Internet-of-things
  Servomotor https://wokwi.com/projects/334977496186356308  <br>
  LiquidCrystal LCD https://wokwi.com/projects/333825443765420627  <br>
- 3 LED traffic signal https://wokwi.com/projects/333716279904961106 <br>
+ 3 LED traffic signalhttps://wokwi.com/projects/335617053248455252 <br>
  Traffic signal https://wokwi.com/projects/334975793262232148  <br>
  https://wokwi.com/projects/334977496186356308 servomotor for statement<br>
  Servomotor for statement https://wokwi.com/projects/334977496186356308<br>
