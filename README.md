@@ -50,3 +50,13 @@ https://wokwi.com/projects/334980736128909908
 19.LED Chaser<br>
 https://wokwi.com/projects/340775764469219922 
 **************************************************************************************************************************
+https://wokwi.com/projects/335071463215202900 - UltraSonic Sensor(extra)<br>
+https://wokwi.com/projects/335073264458007124 - Buzzer + UltraSonic Sensor<br>
+https://wokwi.com/projects/335075055329346132 - Buzzer + UltraSonic Sensor(Varying Instensity)<br>
+https://wokwi.com/projects/335698029159907924 - Buzzer + Ultrasonic Sensor + LED<br>
+https://wokwi.com/projects/335701186493547091 - Potentiometer + LED<br>
+https://wokwi.com/projects/337602684471214674 - DHT22(Humidity and Temperature sensor)<br>
+https://wokwi.com/projects/337604296859189842 - DHT22 + LCD(Humidity and Temperature sensor)<br>
+https://wokwi.com/projects/340775764469219922 - LED_CHASER<br>
+https://wokwi.com/projects/340776572602548818 - LDR<br>
+https://wokwi.com/projects/340776926585029204 - LDR_LED<br>
