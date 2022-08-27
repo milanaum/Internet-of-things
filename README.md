@@ -60,3 +60,16 @@ https://wokwi.com/projects/337604296859189842 - DHT22 + LCD(Humidity and Tempera
 https://wokwi.com/projects/340775764469219922 - LED_CHASER<br>
 https://wokwi.com/projects/340776572602548818 - LDR<br>
 https://wokwi.com/projects/340776926585029204 - LDR_LED<br>
+https://wokwi.com/projects/340779619162522195 - IR_LED<br>
+
+ESP32<br>
+https://wokwi.com/projects/336966830711112275 - LED<br>
+https://wokwi.com/projects/336967978479256147 - 3 LED<br>
+https://wokwi.com/projects/340880463446934098 - RGB<br>
+https://wokwi.com/projects/340882358612787796 - LCD<br>
+https://wokwi.com/projects/340886369600537172 - Servo Motor + Pushbutton<br>
+https://wokwi.com/projects/340888468071645780 - Servo Motor + Sliding Potentiometer<br>
+https://wokwi.com/projects/340890155914101331 - Buzzer + Pushbutton_<br>
+https://wokwi.com/projects/340890489300451922 - Buzzer + UltraSonic Sensor<br>
+https://wokwi.com/projects/340890896679567955 - Potentiometer + LED<br>
+https://wokwi.com/projects/340892440485429842 - DHT22<br>
