@@ -76,3 +76,33 @@ https://wokwi.com/projects/340892440485429842 - DHT22<br>
 https://wokwi.com/projects/340893919446303316 - LED CHASER<br>
 https://wokwi.com/projects/340936317213868626 - LDR<br>
 https://wokwi.com/projects/340936847717827156 - LDR + LED<br>
+****************************************************************************************************************************
+
+int led = 6;
+int sound_digital = 7;
+int sound_analog = A0;
+
+void setup(){
+  Serial.begin(9600);
+  pinMode(led, OUTPUT);
+  pinMode(sound_digital, INPUT);  
+}
+
+void loop(){
+  int val_digital = digitalRead(sound_digital);
+  int val_analog = analogRead(sound_analog);
+
+  Serial.print(val_analog);
+  Serial.print("\t");
+  Serial.println(val_digital);
+
+  if (val_digital == HIGH)
+  {
+    digitalWrite (led, HIGH);
+    delay(3000);
+    }
+  else
+  {
+    digitalWrite (led, LOW);
+    }
+}
