@@ -109,3 +109,4 @@ void loop(){
 ********************************************************************************************************************************************
 1. Seven segment LED display example: Counter Reference : https://wokwi.com/arduino/libraries/SevSeg/SevSeg_Counter <br>
 2. Analog Joystick with two axes (horizontal/vertical) and an integrated push button. Etch-a-sketch - A simple drawing game using a MAX7219 LED Dot Matrix Reference: https://wokwi.com/projects/296234816685212169
+3. DHT22 on the ESP32 Reference: https://wokwi.com/projects/322410731508073042
